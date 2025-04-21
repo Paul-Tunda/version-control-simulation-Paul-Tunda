@@ -1,6 +1,6 @@
-# ��� Project Summary – Version Control Simulation
+# Project Summary – Version Control Simulation
 
-## ��� Repository & Branch Setup
+## Repository & Branch Setup
 
 Set the repo `version-control-simulation-Paul-Tunda` and successfully cloned it locally. Encountered a misstep where `feature/header` became the default branch due to lack of initial commits on `main`.
 
@@ -35,7 +35,9 @@ Committed changes in `feature/header`, removed `.DS_Store` using `git rm .DS_Sto
 
 ---
 
-## ��� Pull Requests & Code Reviews
+## Pull Requests & Code Reviews
 
 - Received a peer review from Meron on my PR.
+  ![Image](Screenshot%202025-04-19%20134541.png)
 - Provided a code review on Meron’s repository through GitHub’s pull request interface.
+  ![Image](Screenshot%202025-04-19%20041724.png)
